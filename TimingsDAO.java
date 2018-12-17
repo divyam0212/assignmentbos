@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.bookourshow.exceptions.BookOurShowException;
+import com.bookourshow.exception.BookOurShowException;
 import com.bookourshow.model.Timings;
 import com.bookourshow.util.ConnectionUtil;
 
